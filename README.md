@@ -17,7 +17,7 @@ This project is a fully functional, web-based music player application built wit
 
 You can access the live version of the music player here:
 
-https://stately-melomakarona-fc7258.netlify.app/
+(https://playyoursangeet.netlify.app/)
 
     Imporant Note: Due to copyright restrictions, the application cannot access local music files directly from your computer. It uses a predefined playlist for demonstration.
 
